@@ -21,8 +21,8 @@ I did not include the files or any assets owned by Neversoft in this repo. These
 ![alt text](Images/Disc.png "Root directory of Tony Hawk's Underground for PS2")
 _Root directory of Tony Hawk's Underground for PS2_
 
-![alt text](Images/MTX.png "Files extracted when run on the .HED and .WAD in the MTX directory")
-_Files extracted when run on the .HED and .WAD in the MTX directory_
+![alt text](Images/MTX.png "The MTX directory of Tony Hawk's Underground for PS2, which also contains .HED and .WAD files")
+_The MTX directory of Tony Hawk's Underground for PS2, which also contains .HED and .WAD files_
 
 ## Running:
 
